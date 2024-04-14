@@ -1,0 +1,3 @@
+- Style the home page using the design token
+  - Investigate: React Context
+  - Investigate: Server components
